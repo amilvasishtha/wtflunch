@@ -1,0 +1,24 @@
+{
+  "name": "wtflunch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amilvasishtha/wtflunch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilvasishtha/wtflunch/issues"
+  },
+  "homepage": "https://github.com/amilvasishtha/wtflunch",
+  "dependencies": {
+    "hapi": "^10.4.1",
+    "jade": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
